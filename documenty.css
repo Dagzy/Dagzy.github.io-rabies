@@ -1,0 +1,17 @@
+.hideMe{
+display: none;
+}
+h3{
+    color:red;
+}
+h1{
+    color:blue;
+}
+body{
+    background-image: url('./Eleven-Fifty-Academy.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: auto;
+    background-size: 
+}
